@@ -10,3 +10,5 @@ R Programming: https://cran.r-project.org/bin/windows/base/old/3.4.3/
 R Studio (Down at bottom of page for free download): https://www.rstudio.com/products/rstudio/download/#download
 
 You will be using R Studio as it is more user friendly. 
+
+Download the "Sample Code for Getting Started.R" from the repository above.
