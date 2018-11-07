@@ -22,6 +22,7 @@ head(accounts)
 
 #write your first sql query - similar to head function above
 sqldf("select top 6 * from accounts")
+sqldf("select * from accounts limit 6") #common for mysql, we are using postreqsql
 
 #you can create a new table from the other tables like I did below
 connect1<-sqldf("select AccountName as acc from accounts where GoogleAnalytics = 'Configured' ")
