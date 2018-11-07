@@ -14,6 +14,6 @@ You will be using R Studio as it is more user friendly.
 Download the "Sample Code for Getting Started.R" from the repository above to get started!
 
 # Training
-https://stackoverflow.com Be careful as there are small differences in sql types. We will be using postregsql
+Good to reference: https://stackoverflow.com be careful as there are small differences in sql types. We will be using postregsql
 
 Google is the best reference, use it!
