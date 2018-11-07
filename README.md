@@ -11,4 +11,4 @@ R Studio (Down at bottom of page for free download): https://www.rstudio.com/pro
 
 You will be using R Studio as it is more user friendly. 
 
-Download the "Sample Code for Getting Started.R" from the repository above.
+Download the "Sample Code for Getting Started.R" from the repository above to get started!
