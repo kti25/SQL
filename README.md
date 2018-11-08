@@ -24,11 +24,11 @@ If statement: Use a "case when" statement https://community.modeanalytics.com/sq
 
 Filtering: Use a "Where" statement https://www.w3schools.com/sql/sql_and_or.asp
 
-Using functions in SQL: https://www.w3schools.com/sql/sql_ref_sqlserver.asp aggregate functions cannot be used in a Group By statement. 
+Using functions in SQL: https://www.w3schools.com/sql/sql_ref_sqlserver.asp aggregate functions cannot be used in a where statement. 
 
-Set orders by: use the Order by statment
+Order the data descending or ascending by a particular metric: use the Order by statment
 
-
+Get rid of dublicate values: use the Group By Statement
 
 Good to reference: https://stackoverflow.com be careful as there are small differences in sql types. We will be using postregsql
 
