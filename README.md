@@ -18,7 +18,10 @@ For SQL the best way to learn is to do. I could have you watch hours upon hours 
 
 Quick Tips:
 
-Test a table: Select top 10 * from {table_ame}
+All Tables should start with a "Select" statement. To call a table use a "From" Statement. 
+Test a table: Select top 10 * from {table_name}
+If statement: Use a case when statement https://community.modeanalytics.com/sql/tutorial/sql-case/
+
 
 Good to reference: https://stackoverflow.com be careful as there are small differences in sql types. We will be using postregsql
 
