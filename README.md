@@ -18,7 +18,7 @@ For SQL the best way to learn is to do. I could have you watch hours upon hours 
 
 Quick Tips:
 
-Test a table: Select top 10 * from <table name>
+Test a table: Select top 10 * from {table_ame}
 
 Good to reference: https://stackoverflow.com be careful as there are small differences in sql types. We will be using postregsql
 
