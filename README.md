@@ -13,7 +13,13 @@ You will be using R Studio as it is more user friendly.
 
 Download the "Sample Code for Getting Started.R" from the repository above to get started!
 
-# Training
+# References/Training
+For SQL the best way to learn is to do. I could have you watch hours upon hours of training/tutorial, but it really wouldn't be super helpful. So I will start you off with my own little tutorial. 
+
+Quick Tips:
+
+Test a table: Select top 10 * from <table name>
+
 Good to reference: https://stackoverflow.com be careful as there are small differences in sql types. We will be using postregsql
 
 Google is the best reference, use it!
