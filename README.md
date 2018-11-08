@@ -32,4 +32,6 @@ Order the data descending or ascending by a particular metric: use the Order by 
 Get rid of dublicate values: use the Group By Statement (use after where statements, but before order by statements)
 
 # Good References
-Anything that you do not find above you can google or use this referece: https://stackoverflow.com but be careful as there are small differences in sql types. We will be using postresql.
+Anything that you do not find above you can google or use this reference: https://stackoverflow.com 
+
+Be careful as there can be small differences in sql types. We will be using postresql.
