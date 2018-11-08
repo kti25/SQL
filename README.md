@@ -14,13 +14,20 @@ You will be using R Studio as it is more user friendly.
 Download the "Sample Code for Getting Started.R" from the repository above to get started!
 
 # References/Training
-For SQL the best way to learn is to do. I could have you watch hours upon hours of training/tutorial, but it really wouldn't be super helpful. So I will start you off with my own little tutorial. 
+For SQL the best way to learn is to do. I could have you watch hours upon hours of training/tutorial, but it really wouldn't be super helpful. So I will start you off with my own little tutorial. There are a list of quick tips to get you started as well as references below.
 
-Quick Tips:
+All Tables should start with a "Select" statement. To call a table use a "From" Statement. * Selects all metrics in the table, if you do not want to select all then type out the name of the column in the table. Example: Select firstname, lastname from users
 
-All Tables should start with a "Select" statement. To call a table use a "From" Statement. 
-Test a table: Select top 10 * from {table_name}
-If statement: Use a case when statement https://community.modeanalytics.com/sql/tutorial/sql-case/
+Test a table: Select top 10 * from {table_name} (View first 10 values)
+
+If statement: Use a "case when" statement https://community.modeanalytics.com/sql/tutorial/sql-case/
+
+Filtering: Use a "Where" statement https://www.w3schools.com/sql/sql_and_or.asp
+
+Using functions in SQL: https://www.w3schools.com/sql/sql_ref_sqlserver.asp aggregate functions cannot be used in a Group By statement. 
+
+Set orders by: use the Order by statment
+
 
 
 Good to reference: https://stackoverflow.com be careful as there are small differences in sql types. We will be using postregsql
