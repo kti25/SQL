@@ -34,4 +34,4 @@ Get rid of dublicate values: use the Group By Statement (use after where stateme
 # Good References
 Anything that you do not find above you can google or use this reference: https://stackoverflow.com 
 
-Be careful as there can be small differences in sql types. We will be using postresql.
+Be careful as there can be small differences in sql types. We will be using postresql/SQLlite.
