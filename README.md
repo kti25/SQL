@@ -13,7 +13,7 @@ You will be using R Studio as it is more user friendly.
 
 Download the "Sample Code for Getting Started.R" from the repository above to get started!
 
-# References/Training
+# Quick Training
 For SQL the best way to learn is to do. I could have you watch hours upon hours of training/tutorial, but it really wouldn't be super helpful. So I will start you off with my own little tutorial. There are a list of quick tips to get you started as well as references below.
 
 All Tables should start with a "Select" statement. To call a table use a "From" Statement. * Selects all metrics in the table, if you do not want to select all then type out the name of the column in the table. Example: Select firstname, lastname from users
@@ -30,6 +30,7 @@ Order the data descending or ascending by a particular metric: use the Order by 
 
 Get rid of dublicate values: use the Group By Statement
 
-Good to reference: https://stackoverflow.com be careful as there are small differences in sql types. We will be using postregsql
+# Good References
+https://stackoverflow.com be careful as there are small differences in sql types. We will be using postregsql
 
 Google is the best reference, use it!
